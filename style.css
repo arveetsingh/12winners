@@ -1,0 +1,17 @@
+html {
+    font-size: 16px;
+}
+body{
+background-color: bisque;
+}
+
+.headerContainer{
+    margin : auto;
+    padding :auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2rem;
+}
+.baseContainer{
+    background-color: blueviolet;
+    
+}
